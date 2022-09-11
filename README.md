@@ -13,3 +13,6 @@ Prerequisites:
 #5: twilio
 
 #6: requests
+
+
+After installing the packages, run main.py to start the application!
