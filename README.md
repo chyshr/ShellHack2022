@@ -5,17 +5,15 @@ Greeting AI
 
 Prerequisites:
 
-#1: Python 3.10
+#1: openai
 
-#2: openai
+#2: json
 
-#3: json
+#3: tkinter
 
-#4: tkinter
+#4: twilio
 
-#5: twilio
-
-#6: requests
+#5: requests
 
 
 After installing the packages, run main.py to start the application!
