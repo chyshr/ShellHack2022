@@ -1,5 +1,8 @@
 # ShellHack2022
 
+Greeting AI
+
+
 Prerequisites:
 
 #1: Python 3.10
