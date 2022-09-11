@@ -1,6 +1,6 @@
 # ShellHack2022
 
-Greeting AI - 
+Greeting AI
 
 
 Prerequisites:
