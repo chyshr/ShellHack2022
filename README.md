@@ -17,7 +17,7 @@ Prerequisites:
 
 
 After installing the packages, run main.py to start the application!
-
+Remember to change the API key that is connected to your own account!
 
 
 
